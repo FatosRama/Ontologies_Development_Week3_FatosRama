@@ -1,0 +1,1332 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Nh5wgc5dJsfCVBTe0vxd">
+    <mxGraphModel dx="9120" dy="2404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-271" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="4290" width="910" x="1500" y="2050" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-253" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="4290" width="1410" x="-210" y="2050" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-251" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="1830" width="6430" x="140" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-132" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Ferroelectric_Memory&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-134" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;FeRAM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="1230" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-135" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-132" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-134" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="1200" as="sourcePoint" />
+            <mxPoint x="1150" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-136" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-135" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;hasType&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-138" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;FeRAM_Array&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="2080" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-139" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-138" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="763.5699999999999" as="sourcePoint" />
+            <mxPoint x="2000" y="763.5699999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-140" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-139" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;containsArray&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1T1C_Memory_Cell&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="2940" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-142" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2500" y="760" as="sourcePoint" />
+            <mxPoint x="2930" y="761.4300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-143" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-142" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;containsCell&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-144" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Transistor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="3810" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-145" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Ferroelectric_Capacitor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="3810" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-146" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-141" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-144" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3350" y="650" as="sourcePoint" />
+            <mxPoint x="3780" y="651.4300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-147" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-146" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;contains&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-148" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-141" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-145" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3470" y="1060" as="sourcePoint" />
+            <mxPoint x="3900" y="1061.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-149" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-148" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;contains&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-150" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MFM_Structure&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="4580" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-151" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-150" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4230" y="1083.8899999999999" as="sourcePoint" />
+            <mxPoint x="4660" y="1085.3200000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-152" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-151" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;consistsOf&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-153" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Bottom_TiN_Electrode&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="5300" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-154" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;HZO_Ferroelectric_Layer&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="5300" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-155" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Top_TiN_Electrode&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="5300" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-156" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-150" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-153" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5100" y="890" as="sourcePoint" />
+            <mxPoint x="5450" y="891.1100000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-157" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-156" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;hasBottomElectrode&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-158" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-150" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5080" y="1385" as="sourcePoint" />
+            <mxPoint x="5300" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-159" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-158" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;hasFerroelectricLayer&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-160" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-150" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-155" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5120" y="1595" as="sourcePoint" />
+            <mxPoint x="5481" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-161" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-160" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;hasTopElectrode&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-162" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#A680B8);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Electrical_Contact&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="4800" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-163" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-162" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startSize=16;endSize=16;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-144" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4390" y="1430" as="sourcePoint" />
+            <mxPoint x="4300" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-164" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-163" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;connectsTo&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-165" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-162" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;startSize=16;endSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-145" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4911" y="2460" as="sourcePoint" />
+            <mxPoint x="4290" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-166" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-165" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;connectsTo&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-167" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-150" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#A680B8);" target="hnpdLIrYYvueMlUQwmrZ-145" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4220" y="1440" as="sourcePoint" />
+            <mxPoint x="4570" y="1441.1100000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-168" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-167" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;forms&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-169" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CMOS_FEOL_Fabrication&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="2210" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-170" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Bottom_Electrode_Deposition&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="2630" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-171" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Bottom_Electrode_Patterning&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="3055" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-172" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;HZO_Deposition&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-173" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Top_Electrode_Deposition&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="3900" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-174" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;RTA_Crystallization&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-175" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MFM_Patterning&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="4740" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-176" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Passivation_Deposition&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="5160" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-177" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Contact_Formation&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="5580" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-178" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#7EA6E0);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;BEOL_Interconnect&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="460" y="6000" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-181" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#7EA6E0);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.23" y="2900" as="sourcePoint" />
+            <mxPoint x="669.23" y="3050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-182" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-181" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;precedes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-183" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#7EA6E0);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.23" y="3330" as="sourcePoint" />
+            <mxPoint x="669.23" y="3480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-184" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-183" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;precedes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-185" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#7EA6E0);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.23" y="3748" as="sourcePoint" />
+            <mxPoint x="669.23" y="3898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-186" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-185" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;precedes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-187" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#7EA6E0);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.23" y="4170" as="sourcePoint" />
+            <mxPoint x="669.23" y="4320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-188" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-187" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;precedes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-189" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#7EA6E0);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.23" y="4590" as="sourcePoint" />
+            <mxPoint x="669.23" y="4740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-190" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-189" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;precedes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-191" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#7EA6E0);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.23" y="5010" as="sourcePoint" />
+            <mxPoint x="669.23" y="5160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-192" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-191" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;precedes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-193" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#7EA6E0);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.23" y="5430" as="sourcePoint" />
+            <mxPoint x="669.23" y="5580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-194" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-193" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;precedes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-195" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#7EA6E0);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.23" y="5850" as="sourcePoint" />
+            <mxPoint x="669.23" y="6000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-196" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-195" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;precedes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-197" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-169" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;startSize=16;endSize=16;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#7EA6E0);" target="hnpdLIrYYvueMlUQwmrZ-144" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="1330" as="sourcePoint" />
+            <mxPoint x="3270" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-198" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-197" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;produces&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-199" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-174" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;startSize=16;endSize=16;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#7EA6E0);" target="hnpdLIrYYvueMlUQwmrZ-154" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1820" y="3718" as="sourcePoint" />
+            <mxPoint x="4874" y="2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-200" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-199" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;crystallizedBy&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-201" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-175" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.28;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#7EA6E0);" target="hnpdLIrYYvueMlUQwmrZ-150" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="5000" as="sourcePoint" />
+            <mxPoint x="4930" y="2680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-202" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-201" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;patterns&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-203" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-176" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#7EA6E0);" target="hnpdLIrYYvueMlUQwmrZ-145" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="4480" as="sourcePoint" />
+            <mxPoint x="4770" y="2960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-204" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-203" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;protectedBy&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-206" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-177" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#7EA6E0);" target="hnpdLIrYYvueMlUQwmrZ-162" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="5580" as="sourcePoint" />
+            <mxPoint x="5750" y="3260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-207" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-206" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;creates&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-208" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-178" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#7EA6E0);" target="hnpdLIrYYvueMlUQwmrZ-141" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="6930" as="sourcePoint" />
+            <mxPoint x="2970" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-209" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-208" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;connects&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-212" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#97D077);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Silicon&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="1770" y="2210" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-213" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-169" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#97D077);" target="hnpdLIrYYvueMlUQwmrZ-212" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="2410" as="sourcePoint" />
+            <mxPoint x="1530" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-214" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-213" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;substrateFor&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-215" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#97D077);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;TiN&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="1770" y="2640" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-216" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-170" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#97D077);" target="hnpdLIrYYvueMlUQwmrZ-215" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="2850" as="sourcePoint" />
+            <mxPoint x="1660" y="2850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-217" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-216" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;deposits&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-218" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#97D077);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Hf0.5Zr0.5O2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="1770" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-219" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.308;entryY=0.366;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#97D077);entryPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-271" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="3620" as="sourcePoint" />
+            <mxPoint x="1460" y="3630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-220" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-219" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;deposits&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-221" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-173" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;startSize=16;endSize=16;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#97D077);" target="hnpdLIrYYvueMlUQwmrZ-215" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="3870" as="sourcePoint" />
+            <mxPoint x="1520" y="3130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-222" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-221" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;deposits&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-223" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#97D077);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Passivation_Material&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="1770" y="5160" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-224" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.308;entryY=0.758;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#97D077);entryPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-271" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="5290" as="sourcePoint" />
+            <mxPoint x="1470" y="5300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-225" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-224" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;deposits&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-226" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#97D077);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Interconnect_Metal&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="1770" y="6000" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-227" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.308;entryY=0.953;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#97D077);entryPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-271" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="6140" as="sourcePoint" />
+            <mxPoint x="1460" y="6150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-228" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-227" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;uses&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-229" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#FFB570);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;PVD&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="2900" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-233" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#FFB570);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;RIE&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="2900" y="2810" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-234" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#FFB570);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ALD&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="2900" y="3220" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-235" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#FFB570);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;RTA&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="2900" y="3700" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-236" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#FFB570);" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CVD&lt;/font&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="2900" y="4160" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-237" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-170" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#FFB570);" target="hnpdLIrYYvueMlUQwmrZ-229" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="2550" as="sourcePoint" />
+            <mxPoint x="1560" y="2560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-238" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-237" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;performedUsing&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-239" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-171" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#FFB570);" target="hnpdLIrYYvueMlUQwmrZ-233" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="3054" as="sourcePoint" />
+            <mxPoint x="2342" y="3000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-240" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-239" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;performedUsing&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-241" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-172" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#FFB570);" target="hnpdLIrYYvueMlUQwmrZ-234" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="3914" as="sourcePoint" />
+            <mxPoint x="2822" y="3860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-242" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-241" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;performedUsing&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-243" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-173" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=16;endSize=16;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFB570);" target="hnpdLIrYYvueMlUQwmrZ-229" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="4034" as="sourcePoint" />
+            <mxPoint x="2010" y="3220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-244" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-243" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;performedUsing&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-245" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-174" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#FFB570);" target="hnpdLIrYYvueMlUQwmrZ-235" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="4624" as="sourcePoint" />
+            <mxPoint x="2382" y="4570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-246" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-245" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;performedUsing&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-247" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-175" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#FFB570);" target="hnpdLIrYYvueMlUQwmrZ-233" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="4984" as="sourcePoint" />
+            <mxPoint x="2572" y="4930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-248" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-247" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;performedUsing&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-249" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-176" style="endArrow=classic;html=1;rounded=0;exitX=0.923;exitY=0.259;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=16;endSize=16;exitPerimeter=0;strokeColor=light-dark(#000000,#FFB570);" target="hnpdLIrYYvueMlUQwmrZ-236" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1890" y="5144" as="sourcePoint" />
+            <mxPoint x="3202" y="5090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-250" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-249" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;performedUsing&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-252" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Memory Device Architecture&lt;/font&gt;" vertex="1">
+          <mxGeometry height="170" width="1000" x="190" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-256" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Process Steps&lt;/font&gt;" vertex="1">
+          <mxGeometry height="170" width="1000" x="-160" y="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-258" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=16;endSize=16;strokeColor=light-dark(#000000,#7EA6E0);" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669" y="2480" as="sourcePoint" />
+            <mxPoint x="669" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-259" connectable="0" parent="hnpdLIrYYvueMlUQwmrZ-258" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;precedes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-272" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="2620" width="910" x="2670" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-273" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Materials&lt;/font&gt;" vertex="1">
+          <mxGeometry height="170" width="500" x="1540" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-274" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Equipment&lt;/font&gt;" vertex="1">
+          <mxGeometry height="170" width="385" x="2710" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;arraySize = 64 kbit&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="330" x="1800" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-276" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;operatingTime = 14 ns&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="330" x="2300" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-280" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;" target="hnpdLIrYYvueMlUQwmrZ-275" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2190" y="890" as="sourcePoint" />
+            <mxPoint x="2060" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-282" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-138" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.701;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-276" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2426" y="970" as="sourcePoint" />
+            <mxPoint x="2280" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-283" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;cellArchitecture = &quot;1T1C&quot;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="330" x="3055" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-284" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.383;exitY=0.464;exitDx=0;exitDy=0;exitPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-283" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3199" y="900" as="sourcePoint" />
+            <mxPoint x="3242" y="1081" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-285" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;capacitorTopology = &quot;CUB&quot;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="330" x="3150" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-286" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;remanentPolarization = &amp;gt; 40&amp;nbsp;µC/cm²&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="420" x="3230" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-287" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;dataRetention = 10 years at 85°C&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="385" x="4170" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-288" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;postMetallizationThermalTolerance = &amp;gt; 500°C&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="560" x="4310" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-289" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;enduranceCycles = &amp;gt; 10^11 cycles&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="400" x="3670" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-292" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-145" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.02;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-285" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4020" y="1390" as="sourcePoint" />
+            <mxPoint x="4041" y="1515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-293" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-145" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.252;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-286" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4268" y="1370" as="sourcePoint" />
+            <mxPoint x="3930" y="1504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-294" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-145" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.426;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-289" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4388" y="1480" as="sourcePoint" />
+            <mxPoint x="4050" y="1614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-295" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-145" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.659;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-287" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4468" y="1390" as="sourcePoint" />
+            <mxPoint x="4130" y="1524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-296" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-145" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.786;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-288" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4408" y="1510" as="sourcePoint" />
+            <mxPoint x="4070" y="1644" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-297" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;chemicalComposition = &quot;Hf0.5Zr0.5O2&quot;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="385" x="5770" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-298" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;HZOThickness = 8 nm&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="385" x="5780" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-299" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-154" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="hnpdLIrYYvueMlUQwmrZ-297" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6340" y="830" as="sourcePoint" />
+            <mxPoint x="6650" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-300" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-154" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="hnpdLIrYYvueMlUQwmrZ-298" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6520" y="1075" as="sourcePoint" />
+            <mxPoint x="6631" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;bottomTiNThickness = 30 nm&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="385" x="5710" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-302" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-153" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="hnpdLIrYYvueMlUQwmrZ-301" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6470" y="735" as="sourcePoint" />
+            <mxPoint x="6581" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-303" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;topTiNThickness = 50 nm&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="385" x="5750" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-304" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;technologyNode = &quot;130 nm CMOS&quot;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="95" width="410" x="750" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-305" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-169" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.962;exitY=0.729;exitDx=0;exitDy=0;exitPerimeter=0;" target="hnpdLIrYYvueMlUQwmrZ-304" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="2350" as="sourcePoint" />
+            <mxPoint x="1011" y="2516" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-306" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;RTATemperature = 500 °C&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="95" width="410" y="4260" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-307" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;RTADuration = 30 s&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="95" width="410" x="-160" y="4460" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-308" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#B9E0A5);" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;RTAGas = &quot;N2&quot;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="95" width="410" x="30" y="4645" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-309" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-174" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="hnpdLIrYYvueMlUQwmrZ-306" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="4180" as="sourcePoint" />
+            <mxPoint x="521" y="4273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-310" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-174" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="hnpdLIrYYvueMlUQwmrZ-307" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="391" y="4482" as="sourcePoint" />
+            <mxPoint x="280" y="4430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-311" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-174" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="hnpdLIrYYvueMlUQwmrZ-308" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="4652" as="sourcePoint" />
+            <mxPoint x="390" y="4600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-312" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;labelBackgroundColor=none;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="9347" width="2180" x="6860" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-313" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="180" width="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-314" parent="hnpdLIrYYvueMlUQwmrZ-313" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A9C4EB);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&lt;font&gt;Domain&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="568" as="geometry">
+            <mxRectangle height="180" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-315" parent="hnpdLIrYYvueMlUQwmrZ-313" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A9C4EB);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Class" vertex="1">
+          <mxGeometry height="180" width="581" x="568" as="geometry">
+            <mxRectangle height="180" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-316" parent="hnpdLIrYYvueMlUQwmrZ-313" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A9C4EB);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Definition" vertex="1">
+          <mxGeometry height="180" width="1031" x="1149" as="geometry">
+            <mxRectangle height="180" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-317" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="300" width="2180" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-318" parent="hnpdLIrYYvueMlUQwmrZ-317" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="300" width="568" as="geometry">
+            <mxRectangle height="300" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-319" parent="hnpdLIrYYvueMlUQwmrZ-317" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Ferroelectric_Memory" vertex="1">
+          <mxGeometry height="300" width="581" x="568" as="geometry">
+            <mxRectangle height="300" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-320" parent="hnpdLIrYYvueMlUQwmrZ-317" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="A category of non-volatile computer memory that utilizes ferroelectric materials to store data." vertex="1">
+          <mxGeometry height="300" width="1031" x="1149" as="geometry">
+            <mxRectangle height="300" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-321" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="320" width="2180" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-322" parent="hnpdLIrYYvueMlUQwmrZ-321" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="320" width="568" as="geometry">
+            <mxRectangle height="320" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-323" parent="hnpdLIrYYvueMlUQwmrZ-321" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="FeRAM" vertex="1">
+          <mxGeometry height="320" width="581" x="568" as="geometry">
+            <mxRectangle height="320" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-324" parent="hnpdLIrYYvueMlUQwmrZ-321" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Ferroelectric Random-Access Memory; a specific implementation of non-volatile RAM using a ferroelectric layer." vertex="1">
+          <mxGeometry height="320" width="1031" x="1149" as="geometry">
+            <mxRectangle height="320" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-325" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="300" width="2180" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-326" parent="hnpdLIrYYvueMlUQwmrZ-325" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="300" width="568" as="geometry">
+            <mxRectangle height="300" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-327" parent="hnpdLIrYYvueMlUQwmrZ-325" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="FeRAM_Array" vertex="1">
+          <mxGeometry height="300" width="581" x="568" as="geometry">
+            <mxRectangle height="300" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-328" parent="hnpdLIrYYvueMlUQwmrZ-325" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="An integrated matrix/array of individual FeRAM memory cells arranged to store binary data (e.g., 64 kbit array size)." vertex="1">
+          <mxGeometry height="300" width="1031" x="1149" as="geometry">
+            <mxRectangle height="300" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-329" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="227" width="2180" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-330" parent="hnpdLIrYYvueMlUQwmrZ-329" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="227" width="568" as="geometry">
+            <mxRectangle height="227" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-331" parent="hnpdLIrYYvueMlUQwmrZ-329" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="1T1C_Memory_Cell" vertex="1">
+          <mxGeometry height="227" width="581" x="568" as="geometry">
+            <mxRectangle height="227" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-332" parent="hnpdLIrYYvueMlUQwmrZ-329" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="A single memory storage cell architecture composed of one Transistor and one Ferroelectric Capacitor (1T-1C)." vertex="1">
+          <mxGeometry height="227" width="1031" x="1149" as="geometry">
+            <mxRectangle height="227" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-333" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="268" width="2180" y="1327" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-334" parent="hnpdLIrYYvueMlUQwmrZ-333" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="268" width="568" as="geometry">
+            <mxRectangle height="268" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-335" parent="hnpdLIrYYvueMlUQwmrZ-333" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Transistor" vertex="1">
+          <mxGeometry height="268" width="581" x="568" as="geometry">
+            <mxRectangle height="268" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-336" parent="hnpdLIrYYvueMlUQwmrZ-333" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&lt;span data-path-to-node=&quot;2,5,1,0&quot;&gt;&lt;code data-path-to-node=&quot;2,5,1,0&quot; data-index-in-node=&quot;0&quot;&gt;&lt;/code&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;2,5,2,0&quot;&gt;A semiconductor switching device used within the cell to select and access the memory state.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="268" width="1031" x="1149" as="geometry">
+            <mxRectangle height="268" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-337" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="269" width="2180" y="1595" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-338" parent="hnpdLIrYYvueMlUQwmrZ-337" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="269" width="568" as="geometry">
+            <mxRectangle height="269" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-339" parent="hnpdLIrYYvueMlUQwmrZ-337" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Ferroelectric_Capacitor" vertex="1">
+          <mxGeometry height="269" width="581" x="568" as="geometry">
+            <mxRectangle height="269" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-340" parent="hnpdLIrYYvueMlUQwmrZ-337" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="A capacitive storage element containing a ferroelectric dielectric layer used to store polarization states." vertex="1">
+          <mxGeometry height="269" width="1031" x="1149" as="geometry">
+            <mxRectangle height="269" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-341" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="341" width="2180" y="1864" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-342" parent="hnpdLIrYYvueMlUQwmrZ-341" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="341" width="568" as="geometry">
+            <mxRectangle height="341" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-343" parent="hnpdLIrYYvueMlUQwmrZ-341" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="MFM_Structure" vertex="1">
+          <mxGeometry height="341" width="581" x="568" as="geometry">
+            <mxRectangle height="341" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-344" parent="hnpdLIrYYvueMlUQwmrZ-341" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Metal-Ferroelectric-Metal stack structure forming the functional core of the ferroelectric capacitor." vertex="1">
+          <mxGeometry height="341" width="1031" x="1149" as="geometry">
+            <mxRectangle height="341" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-345" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="269" width="2180" y="2205" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-346" parent="hnpdLIrYYvueMlUQwmrZ-345" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="269" width="568" as="geometry">
+            <mxRectangle height="269" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-347" parent="hnpdLIrYYvueMlUQwmrZ-345" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Bottom_TiN_Electrode" vertex="1">
+          <mxGeometry height="269" width="581" x="568" as="geometry">
+            <mxRectangle height="269" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-348" parent="hnpdLIrYYvueMlUQwmrZ-345" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="The lower conductive electrode made of Titanium Nitride (TiN) positioned beneath the ferroelectric layer." vertex="1">
+          <mxGeometry height="269" width="1031" x="1149" as="geometry">
+            <mxRectangle height="269" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-349" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="268" width="2180" y="2474" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-350" parent="hnpdLIrYYvueMlUQwmrZ-349" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="268" width="568" as="geometry">
+            <mxRectangle height="268" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-351" parent="hnpdLIrYYvueMlUQwmrZ-349" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="HZO_Ferroelectric_Layer" vertex="1">
+          <mxGeometry height="268" width="581" x="568" as="geometry">
+            <mxRectangle height="268" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-352" parent="hnpdLIrYYvueMlUQwmrZ-349" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="The primary functional dielectric film made of Hafnium Zirconium Oxide (&lt;span class=&quot;math-inline&quot; data-math=&quot;\text{Hf}_{0.5}\text{Zr}_{0.5}\text{O}_2&quot; data-index-in-node=&quot;72&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;$\text{Hf}_{0.5}\text{Zr}_{0.5}\text{O}_2$&lt;/span&gt;)." vertex="1">
+          <mxGeometry height="268" width="1031" x="1149" as="geometry">
+            <mxRectangle height="268" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-353" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="248" width="2180" y="2742" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-354" parent="hnpdLIrYYvueMlUQwmrZ-353" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="248" width="568" as="geometry">
+            <mxRectangle height="248" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-355" parent="hnpdLIrYYvueMlUQwmrZ-353" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Top_TiN_Electrode" vertex="1">
+          <mxGeometry height="248" width="581" x="568" as="geometry">
+            <mxRectangle height="248" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-356" parent="hnpdLIrYYvueMlUQwmrZ-353" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="The upper conductive electrode made of Titanium Nitride (TiN) positioned above the ferroelectric layer." vertex="1">
+          <mxGeometry height="248" width="1031" x="1149" as="geometry">
+            <mxRectangle height="248" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-357" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="393" width="2180" y="2990" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-358" parent="hnpdLIrYYvueMlUQwmrZ-357" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A680B8);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Memory Device Architecture" vertex="1">
+          <mxGeometry height="393" width="568" as="geometry">
+            <mxRectangle height="393" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-359" parent="hnpdLIrYYvueMlUQwmrZ-357" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Electrical_Contact" vertex="1">
+          <mxGeometry height="393" width="581" x="568" as="geometry">
+            <mxRectangle height="393" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-360" parent="hnpdLIrYYvueMlUQwmrZ-357" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&lt;span data-path-to-node=&quot;2,11,1,0&quot;&gt;&lt;code data-path-to-node=&quot;2,11,1,0&quot; data-index-in-node=&quot;0&quot;&gt;&lt;/code&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;2,11,2,0&quot;&gt;Interconnect structures providing electrical connectivity between the cell elements (transistor, capacitor, etc.).&lt;/span&gt;" vertex="1">
+          <mxGeometry height="393" width="1031" x="1149" as="geometry">
+            <mxRectangle height="393" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-361" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="269" width="2180" y="3383" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-362" parent="hnpdLIrYYvueMlUQwmrZ-361" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="269" width="568" as="geometry">
+            <mxRectangle height="269" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-363" parent="hnpdLIrYYvueMlUQwmrZ-361" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="CMOS_FEOL_Fabrication" vertex="1">
+          <mxGeometry height="269" width="581" x="568" as="geometry">
+            <mxRectangle height="269" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-364" parent="hnpdLIrYYvueMlUQwmrZ-361" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Front-End-of-Line manufacturing steps used to fabricate active CMOS components (like transistors) on the silicon substrate." vertex="1">
+          <mxGeometry height="269" width="1031" x="1149" as="geometry">
+            <mxRectangle height="269" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-365" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="304" width="2180" y="3652" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-366" parent="hnpdLIrYYvueMlUQwmrZ-365" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="304" width="568" as="geometry">
+            <mxRectangle height="304" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-367" parent="hnpdLIrYYvueMlUQwmrZ-365" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Bottom_Electrode_Deposition" vertex="1">
+          <mxGeometry height="304" width="581" x="568" as="geometry">
+            <mxRectangle height="304" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-368" parent="hnpdLIrYYvueMlUQwmrZ-365" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;&lt;/code&gt;The step of depositing the bottom electrode layer (TiN) onto the substrate." vertex="1">
+          <mxGeometry height="304" width="1031" x="1149" as="geometry">
+            <mxRectangle height="304" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-369" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="3956" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-370" parent="hnpdLIrYYvueMlUQwmrZ-369" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-371" parent="hnpdLIrYYvueMlUQwmrZ-369" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Bottom_Electrode_Patterning" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-372" parent="hnpdLIrYYvueMlUQwmrZ-369" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;&lt;/code&gt;Lithography and etching step to shape and define the geometry of the bottom electrode." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-373" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="4261" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-374" parent="hnpdLIrYYvueMlUQwmrZ-373" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-375" parent="hnpdLIrYYvueMlUQwmrZ-373" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&lt;span data-path-to-node=&quot;2,15,0,0&quot;&gt;&lt;b data-path-to-node=&quot;2,15,0,0&quot; data-index-in-node=&quot;0&quot;&gt;&lt;/b&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;2,15,1,0&quot;&gt;&lt;code data-path-to-node=&quot;2,15,1,0&quot; data-index-in-node=&quot;0&quot;&gt;HZO_Deposition&lt;/code&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-376" parent="hnpdLIrYYvueMlUQwmrZ-373" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="The atomic layer deposition (ALD) process step used to deposit the thin &lt;span class=&quot;math-inline&quot; data-math=&quot;\text{Hf}_{0.5}\text{Zr}_{0.5}\text{O}_2&quot; data-index-in-node=&quot;72&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;$\text{Hf}_{0.5}\text{Zr}_{0.5}\text{O}_2$&lt;/span&gt; layer." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-377" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="207" width="2180" y="4566" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-378" parent="hnpdLIrYYvueMlUQwmrZ-377" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="207" width="568" as="geometry">
+            <mxRectangle height="207" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-379" parent="hnpdLIrYYvueMlUQwmrZ-377" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Top_Electrode_Deposition" vertex="1">
+          <mxGeometry height="207" width="581" x="568" as="geometry">
+            <mxRectangle height="207" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-380" parent="hnpdLIrYYvueMlUQwmrZ-377" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="The step of depositing the top conductive electrode layer (TiN) over the ferroelectric film." vertex="1">
+          <mxGeometry height="207" width="1031" x="1149" as="geometry">
+            <mxRectangle height="207" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-381" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="304" width="2180" y="4773" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-382" parent="hnpdLIrYYvueMlUQwmrZ-381" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="304" width="568" as="geometry">
+            <mxRectangle height="304" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-383" parent="hnpdLIrYYvueMlUQwmrZ-381" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="RTA_Crystalization" vertex="1">
+          <mxGeometry height="304" width="581" x="568" as="geometry">
+            <mxRectangle height="304" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-384" parent="hnpdLIrYYvueMlUQwmrZ-381" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Rapid Thermal Annealing process (e.g., 500 °C for 30s) used to induce crystallization of the HZO film into its ferroelectric phase." vertex="1">
+          <mxGeometry height="304" width="1031" x="1149" as="geometry">
+            <mxRectangle height="304" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-385" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="5077" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-386" parent="hnpdLIrYYvueMlUQwmrZ-385" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-387" parent="hnpdLIrYYvueMlUQwmrZ-385" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="MFM_Patterning" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-388" parent="hnpdLIrYYvueMlUQwmrZ-385" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Etching and lithographic definition of the full Metal-Ferroelectric-Metal capacitor stacks." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-389" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="" vertex="1">
+          <mxGeometry height="305" width="2180" y="5382" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-390" parent="hnpdLIrYYvueMlUQwmrZ-389" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-391" parent="hnpdLIrYYvueMlUQwmrZ-389" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Passivation_Deposition" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-392" parent="hnpdLIrYYvueMlUQwmrZ-389" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Deposition of a protective dielectric layer (passivation) over the device to seal and prevent contamination or degradation." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-437" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="5687" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-438" parent="hnpdLIrYYvueMlUQwmrZ-437" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-439" parent="hnpdLIrYYvueMlUQwmrZ-437" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Contact_Formation" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-440" parent="hnpdLIrYYvueMlUQwmrZ-437" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Etching contact vias and creating electrical contacts to connect cell layers." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-433" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="5992" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-434" parent="hnpdLIrYYvueMlUQwmrZ-433" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#7EA6E0);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Process Steps" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-435" parent="hnpdLIrYYvueMlUQwmrZ-433" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="BEOL_Interconnect" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-436" parent="hnpdLIrYYvueMlUQwmrZ-433" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Back-End-of-Line process steps constructing metal wiring layers to interconnect components across the chip." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-429" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="6297" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-430" parent="hnpdLIrYYvueMlUQwmrZ-429" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#97D077);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Materials" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-431" parent="hnpdLIrYYvueMlUQwmrZ-429" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Silicon" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-432" parent="hnpdLIrYYvueMlUQwmrZ-429" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Semiconductor substrate material used for the FEOL CMOS underlying circuitry." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-425" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="6602" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-426" parent="hnpdLIrYYvueMlUQwmrZ-425" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#97D077);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Materials" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-427" parent="hnpdLIrYYvueMlUQwmrZ-425" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="TiN" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-428" parent="hnpdLIrYYvueMlUQwmrZ-425" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Titanium Nitride material utilized for building top and bottom capacitor electrodes." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-421" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="6907" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-422" parent="hnpdLIrYYvueMlUQwmrZ-421" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#97D077);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Materials" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-423" parent="hnpdLIrYYvueMlUQwmrZ-421" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Hf0.5Zr0.5O2" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-424" parent="hnpdLIrYYvueMlUQwmrZ-421" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Hafnium Zirconium Oxide (&lt;span class=&quot;math-inline&quot; data-math=&quot;\text{Hf}_{0.5}\text{Zr}_{0.5}\text{O}_2&quot; data-index-in-node=&quot;25&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;$\text{Hf}_{0.5}\text{Zr}_{0.5}\text{O}_2$&lt;/span&gt;) material providing the ferroelectric properties." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-417" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="7212" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-418" parent="hnpdLIrYYvueMlUQwmrZ-417" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#97D077);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Materials" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-419" parent="hnpdLIrYYvueMlUQwmrZ-417" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Passivation_Material" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-420" parent="hnpdLIrYYvueMlUQwmrZ-417" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Insulating or protective dielectric material (such as silicon nitride or silicon oxide) applied over chip layers to seal devices and prevent environmental degradation or electrical leakage." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-413" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="7517" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-414" parent="hnpdLIrYYvueMlUQwmrZ-413" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#97D077);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Materials" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-415" parent="hnpdLIrYYvueMlUQwmrZ-413" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Interconnect_Metal" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-416" parent="hnpdLIrYYvueMlUQwmrZ-413" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Conductive metals (e.g., Copper or Aluminum) used in BEOL process layers for wiring." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-409" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="7822" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-410" parent="hnpdLIrYYvueMlUQwmrZ-409" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFB570);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&#xa;Equipment&#xa;&#xa;" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-411" parent="hnpdLIrYYvueMlUQwmrZ-409" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="PVD" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-412" parent="hnpdLIrYYvueMlUQwmrZ-409" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Physical Vapor Deposition equipment used for depositing metallic conductive layers like TiN." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-405" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="8127" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-406" parent="hnpdLIrYYvueMlUQwmrZ-405" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFB570);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&#xa;Equipment&#xa;&#xa;" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-407" parent="hnpdLIrYYvueMlUQwmrZ-405" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="RIE" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-408" parent="hnpdLIrYYvueMlUQwmrZ-405" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Reactive Ion Etching tool used for anisotropic etching and precise patterning of electrodes and MFM stacks." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-401" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="8432" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-402" parent="hnpdLIrYYvueMlUQwmrZ-401" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFB570);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&#xa;Equipment&#xa;&#xa;" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-403" parent="hnpdLIrYYvueMlUQwmrZ-401" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="ALD" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-404" parent="hnpdLIrYYvueMlUQwmrZ-401" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&lt;span data-path-to-node=&quot;2,28,1,0&quot;&gt;&lt;code data-path-to-node=&quot;2,28,1,0&quot; data-index-in-node=&quot;0&quot;&gt;&lt;/code&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;2,28,2,0&quot;&gt;Atomic Layer Deposition system used for precise, atomic-scale deposition of thin functional films like HZO.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-397" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="8737" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-398" parent="hnpdLIrYYvueMlUQwmrZ-397" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFB570);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&#xa;Equipment&#xa;&#xa;" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-399" parent="hnpdLIrYYvueMlUQwmrZ-397" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="RTA" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-400" parent="hnpdLIrYYvueMlUQwmrZ-397" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Rapid Thermal Annealing furnace/system used for rapid heat treatment and crystallization processes." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-393" parent="hnpdLIrYYvueMlUQwmrZ-312" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" vertex="1">
+          <mxGeometry height="305" width="2180" y="9042" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-394" parent="hnpdLIrYYvueMlUQwmrZ-393" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFB570);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="&#xa;Equipment&#xa;&#xa;" vertex="1">
+          <mxGeometry height="305" width="568" as="geometry">
+            <mxRectangle height="305" width="568" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-395" parent="hnpdLIrYYvueMlUQwmrZ-393" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="CVD" vertex="1">
+          <mxGeometry height="305" width="581" x="568" as="geometry">
+            <mxRectangle height="305" width="581" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-396" parent="hnpdLIrYYvueMlUQwmrZ-393" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=40;" value="Chemical Vapor Deposition system utilized for depositing passivation and insulating dielectric layers." vertex="1">
+          <mxGeometry height="305" width="1031" x="1149" as="geometry">
+            <mxRectangle height="305" width="1031" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-441" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="1630" width="1770" x="4570" y="7550" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-442" parent="hnpdLIrYYvueMlUQwmrZ-441" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="230" width="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-443" parent="hnpdLIrYYvueMlUQwmrZ-442" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A9C4EB);top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Source&lt;/font&gt;" vertex="1">
+          <mxGeometry height="230" width="885" as="geometry">
+            <mxRectangle height="230" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-444" parent="hnpdLIrYYvueMlUQwmrZ-442" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#A9C4EB);top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Flags&lt;/font&gt;" vertex="1">
+          <mxGeometry height="230" width="885" x="885" as="geometry">
+            <mxRectangle height="230" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-445" parent="hnpdLIrYYvueMlUQwmrZ-441" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="160" width="1770" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-446" parent="hnpdLIrYYvueMlUQwmrZ-445" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#000000,#000000);overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;[1] J. Okuno et al., &quot;SoC compatible 1T1C FeRAM memory array based on ferroelectric Hf0.5Zr0.5O2,&quot; presented at the IEEE Symp. VLSI Technol., Jun. 2020.&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-447" parent="hnpdLIrYYvueMlUQwmrZ-445" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;rowspan=2;colspan=1;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;strong&gt;[1] title/technology mismatch&lt;/strong&gt;: The abstract text I retrieved for this paper describes capacitors implemented &quot;in the BEoL of XFAB&#39;s XT018 technology,&quot; which sounds like the BEOL-integrated variant, not the CUB/MOL variant, yet the title matches the paper I&#39;d been citing as the CUB origin paper. This may mean [1] and [2] describe different integration approaches despite shared authorship, or that Okuno&#39;s group explored both. Verify directly against the full text before citing [1] specifically for the CUB claim, cite [2] for CUB, since that abstract explicitly and unambiguously describes the CUB structure and its &amp;gt;500°C anneal benefit.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="320" width="885" x="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-466" parent="hnpdLIrYYvueMlUQwmrZ-441" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="160" width="1770" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-467" parent="hnpdLIrYYvueMlUQwmrZ-466" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#000000,#000000);overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;[2] J. Okuno et al., &quot;1T1C FeRAM memory array based on ferroelectric HZO with capacitor under bitline,&quot; &lt;em&gt;IEEE J. Electron Devices Soc.&lt;/em&gt;, vol. 10, pp. 29–34, 2022, doi: 10.1109/JEDS.2021.3129279.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-468" parent="hnpdLIrYYvueMlUQwmrZ-466" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" vertex="1" visible="0">
+          <mxGeometry height="160" width="885" x="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-463" parent="hnpdLIrYYvueMlUQwmrZ-441" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="160" width="1770" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-464" parent="hnpdLIrYYvueMlUQwmrZ-463" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#000000,#000000);overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;[3] J. Okuno et al., &quot;High-endurance and low-voltage operation of 1T1C FeRAM arrays for nonvolatile memory application,&quot; presented at the IEEE Int. Memory Workshop (IMW), 2021.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-465" parent="hnpdLIrYYvueMlUQwmrZ-463" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;strong&gt;[4]&lt;/strong&gt;: author list not independently confirmed as Okuno et al., this was inferred from context (thickness-scaling follow-up citing [2]); confirm the actual byline before using.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" x="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-460" parent="hnpdLIrYYvueMlUQwmrZ-441" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="160" width="1770" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-461" parent="hnpdLIrYYvueMlUQwmrZ-460" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#000000,#000000);overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;[4] J. Okuno et al., &quot;Reliability study of 1T1C FeRAM arrays with Hf0.5Zr0.5O2 thickness scaling,&quot; &lt;em&gt;IEEE J. Electron Devices Soc.&lt;/em&gt;, vol. 11, 2023.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-462" parent="hnpdLIrYYvueMlUQwmrZ-460" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;strong&gt;[5] vs. [2]&lt;/strong&gt;: these are two distinct, non-interchangeable integration flows (BEOL-embedded vs. CUB/MOL) from related but separate research lines, don&#39;t cite them interchangeably for the same claim.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" x="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-457" parent="hnpdLIrYYvueMlUQwmrZ-441" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="160" width="1770" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-458" parent="hnpdLIrYYvueMlUQwmrZ-457" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#000000,#000000);overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;[5] T. Francois, J. Coignus et al., &quot;Demonstration of BEOL-compatible ferroelectric Hf0.5Zr0.5O2 scaled FeRAM co-integrated with 130 nm CMOS,&quot; presented at IEEE Int. Electron Devices Meeting (IEDM), 2020.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-459" parent="hnpdLIrYYvueMlUQwmrZ-457" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;strong&gt;[7], [8]&lt;/strong&gt;: author names weren&#39;t resolved in my search results (only journal/venue/DOI came through), fill in from the DOI before submitting.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" x="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-454" parent="hnpdLIrYYvueMlUQwmrZ-441" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="160" width="1770" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-455" parent="hnpdLIrYYvueMlUQwmrZ-454" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#000000,#000000);overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;[6] H. Saito and T. Eshita, &quot;1T1C HfO2 FeRAM materials,&quot; in &lt;em&gt;HfO2-Based Ferroelectric Materials&lt;/em&gt;. Hoboken, NJ, USA: Wiley, 2026, pp. 177–222, doi: 10.1002/9783527844869.ch06.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-456" parent="hnpdLIrYYvueMlUQwmrZ-454" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;strong&gt;Thickness stack (30/8/50 nm TiN/HZO/TiN)&lt;/strong&gt;: sourced from a later paper&#39;s background description of the same capacitor, not the original [1]/[2] fabrication paper directly, worth double-checking against [2]&#39;s full text for the authoritative figure.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="160" width="885" x="885" as="geometry">
+            <mxRectangle height="160" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-451" parent="hnpdLIrYYvueMlUQwmrZ-441" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="180" width="1770" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-452" parent="hnpdLIrYYvueMlUQwmrZ-451" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#000000,#000000);overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;[7] Y. [author not resolved] et al., &quot;Recent research for HZO-based ferroelectric memory towards in-memory computing applications,&quot; &lt;em&gt;Electronics&lt;/em&gt;, vol. 12, no. 10, p. 2297, 2023, doi: 10.3390/electronics12102297.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="180" width="885" as="geometry">
+            <mxRectangle height="180" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-453" parent="hnpdLIrYYvueMlUQwmrZ-451" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="180" width="885" x="885" as="geometry">
+            <mxRectangle height="180" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-448" parent="hnpdLIrYYvueMlUQwmrZ-441" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="260" width="1770" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-449" parent="hnpdLIrYYvueMlUQwmrZ-448" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=light-dark(#000000,#000000);overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;[8] [Author not resolved], &quot;Low operating voltage, improved breakdown tolerance, and high endurance in Hf0.5Zr0.5O2 ferroelectric capacitors achieved by thickness scaling down to 4 nm for embedded ferroelectric memory,&quot; &lt;em&gt;ACS Appl. Mater. Interfaces&lt;/em&gt;, 2022, doi: 10.1021/acsami.2c15369.&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="260" width="885" as="geometry">
+            <mxRectangle height="260" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-450" parent="hnpdLIrYYvueMlUQwmrZ-448" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=light-dark(#FFFFFF,#FFFFFF);top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=light-dark(#000000,#000000);fontSize=24;align=left;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="260" width="885" x="885" as="geometry">
+            <mxRectangle height="260" width="885" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hnpdLIrYYvueMlUQwmrZ-469" edge="1" parent="1" source="hnpdLIrYYvueMlUQwmrZ-155" style="endArrow=classic;html=1;rounded=0;startSize=16;endSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="hnpdLIrYYvueMlUQwmrZ-303" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5659" y="1562.5" as="sourcePoint" />
+            <mxPoint x="5780" y="1627.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
